@@ -1,0 +1,13 @@
+streamlit
+openai
+langchain
+langchain-community
+langchain-openai
+youtube-transcript-api
+python-dotenv
+faiss-cpu
+tiktoken
+langdetect
+gtts
+boto3
+fpdf
